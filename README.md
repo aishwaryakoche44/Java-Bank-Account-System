@@ -44,4 +44,4 @@ Exit
 - Enter 0 to exit the program
 
 ## Author
-Ajay
+Aishwarya Koche
